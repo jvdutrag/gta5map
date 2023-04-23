@@ -1,0 +1,17 @@
+{
+  "name": "gta5map",
+  "version": "1.0.0",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvdutrag/gta5map.git"
+  },
+  "scrips": {
+    "deploy": "gh-pages -d ."
+  },
+  "license": "ISC",
+  "homepage": ".",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
