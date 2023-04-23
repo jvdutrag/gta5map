@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/jvdutrag/gta5map.git"
   },
-  "scrips": {
+  "scripts": {
     "deploy": "gh-pages -d ."
   },
   "license": "ISC",
